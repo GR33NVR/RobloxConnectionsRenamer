@@ -1,4 +1,5 @@
 # Roblox Connections Renamer
+Coming to chrome web store soon so it gets signed :)
 
 ![Screenshot](icon.png)
 
