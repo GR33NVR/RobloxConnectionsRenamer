@@ -1,5 +1,7 @@
 # Roblox Connections Renamer
 
+![Screenshot](icon.png)
+
 A lightweight browser extension that renames all instances of "Connections" on Roblox back to "Friends".
 
 ## ✨ What It Does
