@@ -10,8 +10,8 @@ This extension automatically replaces every instance of the term "Connections" w
 
 Choose your browser for setup instructions:
 
-- [Chrome / Edge](chrome.md)
-- [Opera](opera.md)
+- [Chrome](InstallationMethods/chrome.md)
+- [Opera](InstallationMethods/opera.md)
 
 ## ⚖️ License
 
