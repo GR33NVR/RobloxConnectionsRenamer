@@ -20,3 +20,4 @@ Choose your browser for setup instructions:
 This project is **© Copyright GR33NVR 2025**.  
 All rights reserved.  
 You may not distribute, modify, or reupload this extension without explicit permission.
+For more information read the [license](LICENSE)
