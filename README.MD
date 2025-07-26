@@ -11,6 +11,8 @@ This extension automatically replaces every instance of the term "Connections" w
 
 ## 📥 Installation
 
+Note: Chrome and Edge dont fully support it without some settings due to it not being signed yet.
+
 Choose your browser for setup instructions:
 [Simple Installation Video](https://www.youtube.com/watch?v=Fv9L5ZtBF_w)
 - [Chrome](InstallationMethods/chrome.md)
