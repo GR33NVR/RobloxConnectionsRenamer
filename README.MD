@@ -11,7 +11,7 @@ This extension automatically replaces every instance of the term "Connections" w
 ## 📥 Installation
 
 Choose your browser for setup instructions:
-
+[Simple Installation Video](https://www.youtube.com/watch?v=Fv9L5ZtBF_w)
 - [Chrome](InstallationMethods/chrome.md)
 - [Opera](InstallationMethods/opera.md)
 
